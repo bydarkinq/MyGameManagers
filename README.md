@@ -15,3 +15,4 @@ Nasıl Kullanılır :
 5)Rün Sayfasını Uygula Butonuna Basın.
   
   Not : Program Güncel Olarak Geliştirilicektir Program Geliştirildiğinde Uyarı Alıcaksınız.
+  Güncel Versiyon Zorunludur.Programdaki Açıkların kapanması ve daha iyi bir performans için
