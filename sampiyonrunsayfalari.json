@@ -750,22 +750,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 54%HW",
-    "_runeStart": 8400,
-    "_rune1": 8437,
-    "_rune2": 8446,
-    "_rune3": 8473,
-    "_rune4": 8451,
-    "_runeSecondary": 8300,
-    "_rune5": 8304,
-    "_rune6": 8347,
-    "_ID": 36,
-    "_rune7": 5007,
-    "_rune8": 5002,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 52%HC",
+    "_pageName": "Sona-SUP",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -780,7 +765,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 58%HW",
+    "_pageName": "Sona-SUP2",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -795,7 +780,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 53%HC",
+    "_pageName": "Kassadin-MID",
     "_runeStart": 8000,
     "_rune1": 8021,
     "_rune2": 9111,
@@ -810,22 +795,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 57%HW",
-    "_runeStart": 8000,
-    "_rune1": 8021,
-    "_rune2": 9111,
-    "_rune3": 9105,
-    "_rune4": 8014,
-    "_runeSecondary": 8100,
-    "_rune5": 8139,
-    "_rune6": 8135,
-    "_ID": 38,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5003
-  },
-  {
-    "_pageName": "Mid 45%HC",
+    "_pageName": "Irelia-ALL",
     "_runeStart": 8000,
     "_rune1": 8010,
     "_rune2": 9111,
@@ -840,52 +810,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 50%HC",
-    "_runeStart": 8000,
-    "_rune1": 8010,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8400,
-    "_rune5": 8473,
-    "_rune6": 8451,
-    "_ID": 39,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 54%HW",
-    "_runeStart": 8000,
-    "_rune1": 8010,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8100,
-    "_rune5": 8139,
-    "_rune6": 8135,
-    "_ID": 39,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5003
-  },
-  {
-    "_pageName": "Top 50%HW",
-    "_runeStart": 8000,
-    "_rune1": 8010,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8400,
-    "_rune5": 8473,
-    "_rune6": 8451,
-    "_ID": 39,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 52%HC",
+    "_pageName": "Janna-SUP",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -900,7 +825,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 61%HW",
+    "_pageName": "Janna-SUP2",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -915,7 +840,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 45%HC",
+    "_pageName": "Gangplank-TOP",
     "_runeStart": 8300,
     "_rune1": 8359,
     "_rune2": 8304,
@@ -930,22 +855,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 45%HW",
-    "_runeStart": 8300,
-    "_rune1": 8359,
-    "_rune2": 8304,
-    "_rune3": 8345,
-    "_rune4": 8347,
-    "_runeSecondary": 8200,
-    "_rune5": 8226,
-    "_rune6": 8210,
-    "_ID": 41,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "ADC 47%HC",
+    "_pageName": "Corki-ALL",
     "_runeStart": 8000,
     "_rune1": 8021,
     "_rune2": 9111,
@@ -960,52 +870,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 51%HC",
-    "_runeStart": 8000,
-    "_rune1": 8021,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8233,
-    "_rune6": 8236,
-    "_ID": 42,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "ADC 47%HW",
-    "_runeStart": 8000,
-    "_rune1": 8021,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8233,
-    "_rune6": 8236,
-    "_ID": 42,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 51%HW",
-    "_runeStart": 8000,
-    "_rune1": 8021,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8233,
-    "_rune6": 8236,
-    "_ID": 42,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 49%HC",
+    "_pageName": "Karma-SUP",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
