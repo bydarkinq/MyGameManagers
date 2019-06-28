@@ -435,6 +435,10 @@
     "ID": 141,
     "Champname": "Kayn"
   },
+    {
+    "ID": 142,
+    "Champname": "Zoe"
+  },
   {
     "ID": 143,
     "Champname": "Zyra"
@@ -554,14 +558,6 @@
   {
     "ID": 516,
     "Champname": "Ornn"
-  },
-  {
-    "ID": 142,
-    "Champname": "Zoe"
-  },
-  {
-    "ID": 145,
-    "Champname": "KaiSa"
   },
   {
     "ID": 555,
