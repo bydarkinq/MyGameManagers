@@ -1800,7 +1800,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "Top 53%HC",
+    "_pageName": "Shen-TOP",
     "_runeStart": 8400,
     "_rune1": 8437,
     "_rune2": 8401,
@@ -1815,22 +1815,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 53%HW",
-    "_runeStart": 8400,
-    "_rune1": 8437,
-    "_rune2": 8401,
-    "_rune3": 8473,
-    "_rune4": 8451,
-    "_runeSecondary": 8000,
-    "_rune5": 9111,
-    "_rune6": 9104,
-    "_ID": 98,
-    "_rune7": 5005,
-    "_rune8": 5002,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 51%HW",
+    "_pageName": "Lux-SUP",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -1845,7 +1830,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 47%HC",
+    "_pageName": "Lux-ALL",
     "_runeStart": 8100,
     "_rune1": 8128,
     "_rune2": 8126,
@@ -1860,37 +1845,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 50%HC",
-    "_runeStart": 8100,
-    "_rune1": 8128,
-    "_rune2": 8126,
-    "_rune3": 8138,
-    "_rune4": 8106,
-    "_runeSecondary": 8000,
-    "_rune5": 8009,
-    "_rune6": 8014,
-    "_ID": 99,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 50%HW",
-    "_runeStart": 8100,
-    "_rune1": 8128,
-    "_rune2": 8126,
-    "_rune3": 8138,
-    "_rune4": 8106,
-    "_runeSecondary": 8000,
-    "_rune5": 8009,
-    "_rune6": 8014,
-    "_ID": 99,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 46%HC",
+    "_pageName": "Xerath-SUP",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -1905,7 +1860,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 56%HC",
+    "_pageName": "Xerath-MID",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -1920,7 +1875,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 56%HW",
+    "_pageName": "Xerath-SUP2",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -1935,7 +1890,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 56%HW",
+    "_pageName": "Xerath-MID2",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -1950,7 +1905,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 55%HC",
+    "_pageName": "Shyvana-JUNGLE",
     "_runeStart": 8000,
     "_rune1": 8005,
     "_rune2": 9111,
@@ -1965,22 +1920,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 55%HW",
-    "_runeStart": 8000,
-    "_rune1": 8005,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8234,
-    "_rune6": 8232,
-    "_ID": 102,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 56%HW",
+    "_pageName": "Ahri-MID",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -1995,7 +1935,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 50%HC",
+    "_pageName": "Ahri-MID2",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -2010,7 +1950,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 62%HW",
+    "_pageName": "Graves-JUNGLE",
     "_runeStart": 8000,
     "_rune1": 8021,
     "_rune2": 9111,
@@ -2025,7 +1965,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 55%HC",
+    "_pageName": "Graves-JUNGLE2",
     "_runeStart": 8000,
     "_rune1": 8021,
     "_rune2": 9111,
@@ -2040,7 +1980,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 49%HW",
+    "_pageName": "Fizz-MID",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -2055,22 +1995,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 49%HC",
-    "_runeStart": 8100,
-    "_rune1": 8112,
-    "_rune2": 8143,
-    "_rune3": 8138,
-    "_rune4": 8135,
-    "_runeSecondary": 8000,
-    "_rune5": 9111,
-    "_rune6": 8014,
-    "_ID": 105,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Jungle 54%HW",
+    "_pageName": "Rengar-JUNGLE",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -2085,7 +2010,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "Jungle 52%HC",
+    "_pageName": "Rengar-JUNGLE2",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -2100,7 +2025,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "ADC 45%HW",
+    "_pageName": "Varus-ADC",
     "_runeStart": 8000,
     "_rune1": 8008,
     "_rune2": 9111,
@@ -2115,22 +2040,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "ADC 44%HC",
-    "_runeStart": 8000,
-    "_rune1": 8008,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8233,
-    "_rune6": 8236,
-    "_ID": 110,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 42%HW",
+    "_pageName": "Nautilus-SUP",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8401,
@@ -2145,37 +2055,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 42%HC",
-    "_runeStart": 8400,
-    "_rune1": 8439,
-    "_rune2": 8401,
-    "_rune3": 8473,
-    "_rune4": 8242,
-    "_runeSecondary": 8300,
-    "_rune5": 8345,
-    "_rune6": 8347,
-    "_ID": 111,
-    "_rune7": 5007,
-    "_rune8": 5002,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "ADC 49%HW",
-    "_runeStart": 8200,
-    "_rune1": 8214,
-    "_rune2": 8226,
-    "_rune3": 8233,
-    "_rune4": 8237,
-    "_runeSecondary": 8300,
-    "_rune5": 8345,
-    "_rune6": 8352,
-    "_ID": 112,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 50%HW",
+    "_pageName": "Viktor-MID",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -2190,7 +2070,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 53%HW",
+    "_pageName": "Viktor-TOP",
     "_runeStart": 8300,
     "_rune1": 8359,
     "_rune2": 8304,
@@ -2205,22 +2085,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "ADC 49%HC",
-    "_runeStart": 8200,
-    "_rune1": 8214,
-    "_rune2": 8226,
-    "_rune3": 8233,
-    "_rune4": 8237,
-    "_runeSecondary": 8300,
-    "_rune5": 8345,
-    "_rune6": 8352,
-    "_ID": 112,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 50%HC",
+    "_pageName": "Viktor-MID2",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -2235,7 +2100,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 53%HC",
+    "_pageName": "Viktor-TOP2",
     "_runeStart": 8300,
     "_rune1": 8359,
     "_rune2": 8304,
@@ -2250,7 +2115,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 57%HW",
+    "_pageName": "Sejuani-JUNGLE",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8463,
@@ -2265,7 +2130,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 50%HC",
+    "_pageName": "Sejuani-JUNGLE2",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8463,
@@ -2280,7 +2145,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 53%HW",
+    "_pageName": "Fiora-TOP",
     "_runeStart": 8000,
     "_rune1": 8010,
     "_rune2": 9111,
@@ -2295,7 +2160,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 50%HC",
+    "_pageName": "Fiora-TOP2",
     "_runeStart": 8000,
     "_rune1": 8010,
     "_rune2": 9111,
@@ -2310,7 +2175,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 56%HW",
+    "_pageName": "Lulu-SUP",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -2325,7 +2190,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 49%HC",
+    "_pageName": "Lulu-SUP2",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -2340,22 +2205,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "ADC 57%HW",
-    "_runeStart": 8000,
-    "_rune1": 8010,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8233,
-    "_rune6": 8236,
-    "_ID": 119,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5002
-  },
-  {
-    "_pageName": "ADC 48%HC",
+    "_pageName": "Draven-ADC",
     "_runeStart": 8000,
     "_rune1": 8010,
     "_rune2": 9111,
@@ -2369,8 +2219,23 @@
     "_rune8": 5008,
     "_rune9": 5001
   },
+    {
+    "_pageName": "Draven-ADC2",
+    "_runeStart": 8000,
+    "_rune1": 8010,
+    "_rune2": 9111,
+    "_rune3": 9104,
+    "_rune4": 8014,
+    "_runeSecondary": 8200,
+    "_rune5": 8233,
+    "_rune6": 8236,
+    "_ID": 119,
+    "_rune7": 5008,
+    "_rune8": 5008,
+    "_rune9": 5002
+  },
   {
-    "_pageName": "Jungle 53%HW",
+    "_pageName": "Hecarim-JUNGLE",
     "_runeStart": 8100,
     "_rune1": 8124,
     "_rune2": 8143,
@@ -2383,21 +2248,6 @@
     "_rune7": 5008,
     "_rune8": 5008,
     "_rune9": 5002
-  },
-  {
-    "_pageName": "Jungle 48%HC",
-    "_runeStart": 8100,
-    "_rune1": 8124,
-    "_rune2": 8143,
-    "_rune3": 8138,
-    "_rune4": 8105,
-    "_runeSecondary": 8200,
-    "_rune5": 8234,
-    "_rune6": 8232,
-    "_ID": 120,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
   },
   {
     "_pageName": "Jungle 60%HW",
@@ -2430,22 +2280,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 57%HW",
-    "_runeStart": 8000,
-    "_rune1": 8010,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8400,
-    "_rune5": 8446,
-    "_rune6": 8473,
-    "_ID": 122,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Top 47%HC",
+    "_pageName": "Darius-TOP",
     "_runeStart": 8000,
     "_rune1": 8010,
     "_rune2": 9111,
@@ -2460,7 +2295,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 52%HW",
+    "_pageName": "Jayce-TOP",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -2475,22 +2310,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 52%HC",
-    "_runeStart": 8200,
-    "_rune1": 8214,
-    "_rune2": 8226,
-    "_rune3": 8233,
-    "_rune4": 8237,
-    "_runeSecondary": 8100,
-    "_rune5": 8139,
-    "_rune6": 8135,
-    "_ID": 126,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 51%HW",
+    "_pageName": "Lissandra-MID",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8446,
@@ -2505,7 +2325,7 @@
     "_rune9": 5003
   },
   {
-    "_pageName": "Top 50%HW",
+    "_pageName": "Lissandra-TOP",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8463,
@@ -2520,7 +2340,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 50%HC",
+    "_pageName": "Lissandra-MID2",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8463,
@@ -2535,7 +2355,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 42%HC",
+    "_pageName": "Lissandra-TOP2",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8446,
@@ -2550,7 +2370,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 67%HW",
+    "_pageName": "Diana-JUNGLE",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -2565,7 +2385,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 54%HW",
+    "_pageName": "Diana-MID",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -2580,7 +2400,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 67%HC",
+    "_pageName": "Diana-ALL",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -2595,22 +2415,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 52%HC",
-    "_runeStart": 8100,
-    "_rune1": 8112,
-    "_rune2": 8143,
-    "_rune3": 8138,
-    "_rune4": 8135,
-    "_runeSecondary": 8200,
-    "_rune5": 8233,
-    "_rune6": 8236,
-    "_ID": 131,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 45%HW",
+    "_pageName": "Syndra-MID",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8139,
@@ -2625,22 +2430,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 45%HC",
-    "_runeStart": 8100,
-    "_rune1": 8112,
-    "_rune2": 8139,
-    "_rune3": 8138,
-    "_rune4": 8135,
-    "_runeSecondary": 8200,
-    "_rune5": 8226,
-    "_rune6": 8233,
-    "_ID": 134,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 56%HW",
+    "_pageName": "AU-MID",
     "_runeStart": 8200,
     "_rune1": 8230,
     "_rune2": 8224,
@@ -2655,22 +2445,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 56%HC",
-    "_runeStart": 8200,
-    "_rune1": 8230,
-    "_rune2": 8224,
-    "_rune3": 8234,
-    "_rune4": 8232,
-    "_runeSecondary": 8300,
-    "_rune5": 8316,
-    "_rune6": 8352,
-    "_ID": 136,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Jungle 54%HW",
+    "_pageName": "Kayn-JUNGLE",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -2685,7 +2460,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "Jungle 51%HC",
+    "_pageName": "Kayn-JUNGLE2",
     "_runeStart": 8100,
     "_rune1": 8128,
     "_rune2": 8143,
@@ -2700,7 +2475,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 50%HW",
+    "_pageName": "Zoe-MID",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -2715,7 +2490,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 47%HC",
+    "_pageName": "Zoe-MID2",
     "_runeStart": 8100,
     "_rune1": 8128,
     "_rune2": 8139,
@@ -2730,7 +2505,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 56%HW",
+    "_pageName": "Zyra-SUP",
     "_runeStart": 8100,
     "_rune1": 8128,
     "_rune2": 8139,
@@ -2745,7 +2520,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 56%HC",
+    "_pageName": "Zyra-SUP2",
     "_runeStart": 8100,
     "_rune1": 8128,
     "_rune2": 8139,
@@ -2760,7 +2535,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "ADC 57%HW",
+    "_pageName": "KaiSa-ADC",
     "_runeStart": 8000,
     "_rune1": 8005,
     "_rune2": 9111,
@@ -2775,7 +2550,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "ADC 51%HC",
+    "_pageName": "KaiSa-ADC2",
     "_runeStart": 8000,
     "_rune1": 8021,
     "_rune2": 9111,
