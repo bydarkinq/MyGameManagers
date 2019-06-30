@@ -720,6 +720,36 @@
     "_rune9": 5002
   },
   {
+  "_pageName": "Anivia-ALL"
+  "_runeStart": 8200
+  "_rune1": 8229
+  "_rune2": 8226
+  "_rune3": 8234
+  "_rune4": 8236
+  "_runeSecondary": 8300
+  "_rune5": 8316
+  "_rune6": 8444
+  "_ID": 34
+  "_rune7": 5008
+  "_rune8": 5008
+  "_rune9": 5001
+  },
+  {
+  "_pageName": "Anivia-ALL2"
+  "_runeStart": 8100
+  "_rune1": 8112
+  "_rune2": 8126
+  "_rune3": 8138
+  "_rune4": 8105
+  "_runeSecondary": 8200
+  "_rune5": 8226
+  "_rune6": 8237
+  "_ID": 34
+  "_rune7": 5008
+  "_rune8": 5008
+  "_rune9": 5002
+  },
+  {
     "_pageName": "Shaco-JUNGLE",
     "_runeStart": 8000,
     "_rune1": 8021,
