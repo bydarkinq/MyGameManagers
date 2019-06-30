@@ -3420,7 +3420,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 58%HW",
+    "_pageName": "Nami-SUP",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -3435,7 +3435,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 50%HC",
+    "_pageName": "Nami-SUP2",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8226,
@@ -3450,7 +3450,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 50%HW",
+    "_pageName": "Azir-MID",
     "_runeStart": 8000,
     "_rune1": 8008,
     "_rune2": 9111,
@@ -3465,22 +3465,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 50%HC",
-    "_runeStart": 8000,
-    "_rune1": 8008,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8226,
-    "_rune6": 8210,
-    "_ID": 268,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 63%HW",
+    "_pageName": "Thresh-SUP",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8446,
@@ -3495,7 +3480,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 49%HC",
+    "_pageName": "Thresh-SUP2",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8463,
@@ -3510,7 +3495,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 53%HW",
+    "_pageName": "Illaoi-TOP",
     "_runeStart": 8300,
     "_rune1": 8359,
     "_rune2": 8304,
@@ -3525,7 +3510,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 48%HC",
+    "_pageName": "Illaoi-TOP2",
     "_runeStart": 8300,
     "_rune1": 8359,
     "_rune2": 8304,
@@ -3540,7 +3525,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 47%HW",
+    "_pageName": "Reksai-JUNGLE",
     "_runeStart": 8000,
     "_rune1": 8005,
     "_rune2": 9111,
@@ -3570,7 +3555,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 54%HW",
+    "_pageName": "Ivern-JUNGLE",
     "_runeStart": 8200,
     "_rune1": 8214,
     "_rune2": 8275,
@@ -3585,22 +3570,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 54%HC",
-    "_runeStart": 8200,
-    "_rune1": 8214,
-    "_rune2": 8275,
-    "_rune3": 8234,
-    "_rune4": 8232,
-    "_runeSecondary": 8300,
-    "_rune5": 8321,
-    "_rune6": 8347,
-    "_ID": 427,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "ADC 50%HW",
+    "_pageName": "Kalista-ADC",
     "_runeStart": 8000,
     "_rune1": 8008,
     "_rune2": 9111,
@@ -3615,22 +3585,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "ADC 43%HC",
-    "_runeStart": 8000,
-    "_rune1": 8008,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8233,
-    "_rune6": 8236,
-    "_ID": 429,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 51%HW",
+    "_pageName": "Bard-SUP",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8126,
@@ -3645,22 +3600,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 51%HC",
-    "_runeStart": 8100,
-    "_rune1": 8112,
-    "_rune2": 8126,
-    "_rune3": 8138,
-    "_rune4": 8105,
-    "_runeSecondary": 8200,
-    "_rune5": 8234,
-    "_rune6": 8237,
-    "_ID": 432,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 46%HW",
+    "_pageName": "Rakan-SUP",
     "_runeStart": 8400,
     "_rune1": 8465,
     "_rune2": 8446,
@@ -3675,7 +3615,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 43%HC",
+    "_pageName": "Rakan-SUP2",
     "_runeStart": 8400,
     "_rune1": 8465,
     "_rune2": 8401,
@@ -3690,7 +3630,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "ADC 51%HW",
+    "_pageName": "Xayah-ADC",
     "_runeStart": 8000,
     "_rune1": 8008,
     "_rune2": 9111,
@@ -3705,7 +3645,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "ADC 48%HC",
+    "_pageName": "Xayah-ADC2",
     "_runeStart": 8000,
     "_rune1": 8008,
     "_rune2": 9111,
@@ -3720,7 +3660,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 51%HW",
+    "_pageName": "Ornn-TOP",
     "_runeStart": 8400,
     "_rune1": 8437,
     "_rune2": 8446,
@@ -3735,22 +3675,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "Top 49%HC",
-    "_runeStart": 8400,
-    "_rune1": 8437,
-    "_rune2": 8446,
-    "_rune3": 8473,
-    "_rune4": 8451,
-    "_runeSecondary": 8300,
-    "_rune5": 8345,
-    "_rune6": 8352,
-    "_ID": 516,
-    "_rune7": 5007,
-    "_rune8": 5002,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 43%HW",
+    "_pageName": "Neeko-SUP",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -3765,7 +3690,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 59%HW",
+    "_pageName": "Neeko-MID",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -3780,7 +3705,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 39%HC",
+    "_pageName": "Neeko-SUP2",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -3795,7 +3720,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 45%HC",
+    "_pageName": "Neeko-MID2",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -3810,7 +3735,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 53%HW",
+    "_pageName": "Pyke-SUP",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8446,
@@ -3825,7 +3750,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 49%HC",
+    "_pageName": "Pyke-SUP2",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8463,
