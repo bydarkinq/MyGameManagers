@@ -2565,7 +2565,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 48%HW",
+    "_pageName": "Zac-JUNGLE",
     "_runeStart": 8400,
     "_rune1": 8439,
     "_rune2": 8463,
@@ -2580,37 +2580,22 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 48%HC",
-    "_runeStart": 8400,
-    "_rune1": 8439,
-    "_rune2": 8463,
-    "_rune3": 8429,
-    "_rune4": 8453,
-    "_runeSecondary": 8300,
-    "_rune5": 8304,
-    "_rune6": 8347,
-    "_ID": 154,
-    "_rune7": 5007,
-    "_rune8": 5002,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 54%HW",
+    "_pageName": "Yasuo-MID",
     "_runeStart": 8000,
     "_rune1": 8010,
     "_rune2": 9111,
     "_rune3": 9104,
     "_rune4": 8014,
     "_runeSecondary": 8100,
-    "_rune5": 8135,
-    "_rune6": 8139,
+    "_rune5": 8139,
+    "_rune6": 8135,
     "_ID": 157,
     "_rune7": 5005,
     "_rune8": 5008,
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 57%HW",
+    "_pageName": "Yasuo-TOP",
     "_runeStart": 8000,
     "_rune1": 8010,
     "_rune2": 9111,
@@ -2625,52 +2610,7 @@
     "_rune9": 5003
   },
   {
-    "_pageName": "Mid 48%HC",
-    "_runeStart": 8000,
-    "_rune1": 8010,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8100,
-    "_rune5": 8139,
-    "_rune6": 8135,
-    "_ID": 157,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Top 49%HC",
-    "_runeStart": 8000,
-    "_rune1": 8010,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8100,
-    "_rune5": 8139,
-    "_rune6": 8135,
-    "_ID": 157,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 55%HW",
-    "_runeStart": 8200,
-    "_rune1": 8229,
-    "_rune2": 8226,
-    "_rune3": 8210,
-    "_rune4": 8237,
-    "_runeSecondary": 8300,
-    "_rune5": 8304,
-    "_rune6": 8347,
-    "_ID": 161,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 64%HW",
+    "_pageName": "Velkoz-MID",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -2685,7 +2625,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 44%HC",
+    "_pageName": "Velkoz-SUP",
     "_runeStart": 8200,
     "_rune1": 8229,
     "_rune2": 8226,
@@ -2700,22 +2640,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 64%HC",
-    "_runeStart": 8200,
-    "_rune1": 8229,
-    "_rune2": 8226,
-    "_rune3": 8210,
-    "_rune4": 8236,
-    "_runeSecondary": 8300,
-    "_rune5": 8304,
-    "_rune6": 8347,
-    "_ID": 161,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Jungle 59%HW",
+    "_pageName": "Taliyah-JUNGLE",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8126,
@@ -2730,7 +2655,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "Jungle 47%HC",
+    "_pageName": "Taliyah-JUNGLE2",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8126,
@@ -2745,7 +2670,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 55%HW",
+    "_pageName": "Camille-JUNGLE",
     "_runeStart": 8000,
     "_rune1": 8005,
     "_rune2": 9111,
@@ -2760,7 +2685,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 50%HW",
+    "_pageName": "Camille-TOP",
     "_runeStart": 8000,
     "_rune1": 8005,
     "_rune2": 9111,
@@ -2775,37 +2700,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "Jungle 52%HC",
-    "_runeStart": 8000,
-    "_rune1": 8005,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8233,
-    "_rune6": 8232,
-    "_ID": 164,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5002
-  },
-  {
-    "_pageName": "Top 50%HC",
-    "_runeStart": 8000,
-    "_rune1": 8005,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8400,
-    "_rune5": 8401,
-    "_rune6": 8473,
-    "_ID": 164,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Support 50%HW",
+    "_pageName": "Braum-SUP",
     "_runeStart": 8400,
     "_rune1": 8465,
     "_rune2": 8463,
@@ -2820,7 +2715,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 48%HC",
+    "_pageName": "Braum-SUP2",
     "_runeStart": 8400,
     "_rune1": 8465,
     "_rune2": 8463,
@@ -2835,7 +2730,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "ADC 56%HW",
+    "_pageName": "Jhin-ADC",
     "_runeStart": 8000,
     "_rune1": 8021,
     "_rune2": 9111,
@@ -2850,7 +2745,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "ADC 50%HC",
+    "_pageName": "Jhin-ADC2",
     "_runeStart": 8000,
     "_rune1": 8021,
     "_rune2": 9111,
@@ -2865,7 +2760,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Jungle 58%HW",
+    "_pageName": "Kindred-JUNGLE",
     "_runeStart": 8000,
     "_rune1": 8005,
     "_rune2": 9111,
@@ -2880,22 +2775,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "Jungle 51%HC",
-    "_runeStart": 8000,
-    "_rune1": 8005,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8100,
-    "_rune5": 8143,
-    "_rune6": 8105,
-    "_ID": 203,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "ADC 58%HW",
+    "_pageName": "Jinx-ADC",
     "_runeStart": 8000,
     "_rune1": 8008,
     "_rune2": 9111,
@@ -2910,7 +2790,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "ADC 55%HC",
+    "_pageName": "Jinx-ADC2",
     "_runeStart": 8000,
     "_rune1": 8021,
     "_rune2": 9111,
@@ -2925,7 +2805,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 39%HW",
+    "_pageName": "Tahm Kench",
     "_runeStart": 8400,
     "_rune1": 8465,
     "_rune2": 8401,
@@ -2940,22 +2820,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Support 39%HC",
-    "_runeStart": 8400,
-    "_rune1": 8465,
-    "_rune2": 8401,
-    "_rune3": 8473,
-    "_rune4": 8451,
-    "_runeSecondary": 8300,
-    "_rune5": 8304,
-    "_rune6": 8410,
-    "_ID": 223,
-    "_rune7": 5008,
-    "_rune8": 5002,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "ADC 64%HW",
+    "_pageName": "Lucian-ADC",
     "_runeStart": 8000,
     "_rune1": 8005,
     "_rune2": 9111,
@@ -2970,22 +2835,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "ADC 50%HC",
-    "_runeStart": 8000,
-    "_rune1": 8005,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8200,
-    "_rune5": 8226,
-    "_rune6": 8233,
-    "_ID": 236,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 59%HW",
+    "_pageName": "Zed-MID",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -3000,7 +2850,7 @@
     "_rune9": 5002
   },
   {
-    "_pageName": "Mid 50%HC",
+    "_pageName": "Zed-MID2",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -3015,7 +2865,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 47%HW",
+    "_pageName": "Kled-TOP",
     "_runeStart": 8000,
     "_rune1": 8010,
     "_rune2": 9111,
@@ -3030,22 +2880,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Top 47%HC",
-    "_runeStart": 8000,
-    "_rune1": 8010,
-    "_rune2": 9111,
-    "_rune3": 9104,
-    "_rune4": 8014,
-    "_runeSecondary": 8400,
-    "_rune5": 8446,
-    "_rune6": 8473,
-    "_ID": 240,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Mid 52%HW",
+    "_pageName": "Ekko-MID",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
@@ -3060,37 +2895,7 @@
     "_rune9": 5001
   },
   {
-    "_pageName": "Mid 52%HC",
-    "_runeStart": 8100,
-    "_rune1": 8112,
-    "_rune2": 8143,
-    "_rune3": 8138,
-    "_rune4": 8135,
-    "_runeSecondary": 8200,
-    "_rune5": 8233,
-    "_rune6": 8236,
-    "_ID": 245,
-    "_rune7": 5008,
-    "_rune8": 5008,
-    "_rune9": 5001
-  },
-  {
-    "_pageName": "Jungle 52%HW",
-    "_runeStart": 8100,
-    "_rune1": 8112,
-    "_rune2": 8143,
-    "_rune3": 8138,
-    "_rune4": 8105,
-    "_runeSecondary": 8000,
-    "_rune5": 9111,
-    "_rune6": 8014,
-    "_ID": 254,
-    "_rune7": 5005,
-    "_rune8": 5008,
-    "_rune9": 5002
-  },
-  {
-    "_pageName": "Jungle 52%HC",
+    "_pageName": "Vi-JUNGLE",
     "_runeStart": 8100,
     "_rune1": 8112,
     "_rune2": 8143,
