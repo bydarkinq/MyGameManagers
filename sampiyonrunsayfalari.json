@@ -780,6 +780,21 @@
     "_rune9": 5001
   },
   {
+    "_pageName": "Cho'Gath-LANE",
+    "_runeStart": 8200,
+    "_rune1": 8229,
+    "_rune2": 8275,
+    "_rune3": 8233,
+    "_rune4": 8237,
+    "_runeSecondary": 8100,
+    "_rune5": 8126,
+    "_rune6": 8135,
+    "_ID": 31,
+    "_rune7": 5008,
+    "_rune8": 5008,
+    "_rune9": 5001
+  },
+  {
     "_pageName": "Amumu-JUNGLE",
     "_runeStart": 8400,
     "_rune1": 8439,
