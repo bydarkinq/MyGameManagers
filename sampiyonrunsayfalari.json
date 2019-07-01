@@ -2505,6 +2505,21 @@
     "_rune9": 5001
   },
   {
+    "_pageName": "Ziggs-MID",
+    "_runeStart": 8200,
+    "_rune1": 8229,
+    "_rune2": 8226,
+    "_rune3": 8210,
+    "_rune4": 8237,
+    "_runeSecondary": 8300,
+    "_rune5": 8345,
+    "_rune6": 8352,
+    "_ID": 115,
+    "_rune7": 5007,
+    "_rune8": 5008,
+    "_rune9": 5001
+  },
+  {
     "_pageName": "Lulu-SUP",
     "_runeStart": 8200,
     "_rune1": 8214,
