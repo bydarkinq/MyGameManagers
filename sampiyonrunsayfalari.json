@@ -1560,6 +1560,21 @@
     "_rune9": 5002
   },
   {
+    "_pageName": "Vayne-ADC3",
+    "_runeStart": 8000,
+    "_rune1": 8005,
+    "_rune2": 9111,
+    "_rune3": 9104,
+    "_rune4": 8014,
+    "_runeSecondary": 8300,
+    "_rune5": 8304,
+    "_rune6": 8345,
+    "_ID": 67,
+    "_rune7": 5005,
+    "_rune8": 5008,
+    "_rune9": 5002
+  },
+  {
     "_pageName": "Rumble-TOP",
     "_runeStart": 8200,
     "_rune1": 8229,
