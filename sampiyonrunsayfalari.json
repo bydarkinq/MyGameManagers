@@ -3315,6 +3315,34 @@
     "_rune9": 5001
   },
   {
+    "_pageName": "Senna-ADC",
+    "_runeStart": 8000,
+    "_rune1": 8021,
+    "_rune2": 9101,
+    "_rune3": 9103,
+    "_rune4": 8014,
+    "_rune5": 8138,
+    "_rune6": 8106,
+    "_ID": 235,
+    "_rune7": 5008,
+    "_rune8": 5008,
+    "_rune9": 5002
+  },
+  {
+    "_pageName": "Senna-SUP",
+    "_runeStart": 8300,
+    "_rune1": 8351,
+    "_rune2": 8304,
+    "_rune3": 8345,
+    "_rune4": 8410,
+    "_rune5": 8009,
+    "_rune6": 8014,
+    "_ID": 235,
+    "_rune7": 5008,
+    "_rune8": 5008,
+    "_rune9": 5002
+  },
+  {
     "_pageName": "Lucian-ADC",
     "_runeStart": 8000,
     "_rune1": 8005,
@@ -3855,6 +3883,20 @@
     "_rune9": 5001
   },
   {
+    "_pageName": "Aphelios-ADC",
+    "_runeStart": 8000,
+    "_rune1": 8005,
+    "_rune2": 8009,
+    "_rune3": 9103,
+    "_rune4": 8014,
+    "_rune5": 8275,
+    "_rune6": 8233,
+    "_ID": 523,
+    "_rune7": 5005,
+    "_rune8": 5008,
+    "_rune9": 5002
+  },
+  {
     "_pageName": "Pyke-SUP",
     "_runeStart": 8400,
     "_rune1": 8439,
@@ -3883,5 +3925,19 @@
     "_rune7": 5008,
     "_rune8": 5008,
     "_rune9": 5001
+  },
+  {
+    "_pageName": "Sett-Page",
+    "_runeStart": 8000,
+    "_rune1": 8010,
+    "_rune2": 9111,
+    "_rune3": 9104,
+    "_rune4": 8014,
+    "_rune5": 8446,
+    "_rune6": 8473,
+    "_ID": 875,
+    "_rune7": 5005,
+    "_rune8": 5008,
+    "_rune9": 5002
   }
 ]
